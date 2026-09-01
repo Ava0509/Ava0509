@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/89c67211-a342-483f-bfbb-74eba86a2b02.svg)](https://wakatime.com/@89c67211-a342-483f-bfbb-74eba86a2b02)
 <!--START_SECTION:waka-->
 
 ```txt
