@@ -2,8 +2,8 @@ name: WakaTime Coding Stats
 
 on:
   schedule:
-    # Runs automatically every day at midnight (UTC)
-    - cron: '0 0 * * *'
+    # runs every 12 hours
+    - cron: '0 */12 * * *'
   # manual trigger
   workflow_dispatch: 
 
